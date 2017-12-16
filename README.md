@@ -20,9 +20,8 @@ Implementare
 	Jucatorul este desenat cu centrul de greutate in (0,0), incadrat intr-un patrat(cu latura 40) pentru a simplifica calculele de intersectie cu masinile, acesta este translatat la punctul de coordonate j si i , calculate la fiecare intrare de la tastatura (“w” = creste coordonata pe axa Oy,  “s” = scade coordonata pe Oy, respectiv “a” si “d” pentru axa Ox; space = nu modifica coordonatele => jucatorul nu se misca) .
 
 Platforma
-
-  Ubuntu 15.10
-  Editor: Vim 7.4
+  	Ubuntu 15.10
+	Editor: Vim 7.4
 
 Compilare + rulare:
 	g++ MihaelaNistor252.cpp -lGL -lGLU -lglut -lm && ./a.out
