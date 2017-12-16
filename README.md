@@ -54,3 +54,7 @@ Testare
 	Dupa un joc terminat ( fie jucatorul a ajuns la casa – sus, stanga - , fie a pierdut toate vietile):
 
 	tasta y = restart joc	
+
+Link video:
+
+	https://drive.google.com/open?id=1-svPvnQHpoiYJvy10ri8V8tvs7bNVqMJ
