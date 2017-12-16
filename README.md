@@ -55,6 +55,5 @@ Testare
 
 	tasta y = restart joc	
 
-Link video:
-
+Link video:  
 	https://drive.google.com/open?id=1-svPvnQHpoiYJvy10ri8V8tvs7bNVqMJ
